@@ -7,7 +7,7 @@ Currently, I am focusing on improving my skills in frontend and backend developm
 
 I mainly work with TypeScript as my core technology for building applications.
 
-I have experience working with technologies like Java, JavaScript, TypeScript, Python, and C#.
+I have experience working with technologies like Java, JavaScript, Python, and C#.
 I also use frameworks and tools such as React, Node.js, Express, Next.js, and .NET Web API.
 
 For databases, I work with MongoDB, MySQL, and PostgreSQL.
