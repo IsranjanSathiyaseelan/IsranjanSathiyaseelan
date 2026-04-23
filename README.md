@@ -1,18 +1,16 @@
-# 👋 Hi, I'm Isranjan Sathiyaseelan
+👋 Hi, I'm Isranjan Sathiyaseelan
 
-I am a final-year Software Engineering student with a strong interest in full-stack development.
-I enjoy building web applications and learning new technologies to solve real-world problems.
+I am a final year Software Engineering student with a strong interest in full-stack development. I enjoy building web applications and learning new technologies to solve real world problems.
 
-Currently, I am focusing on improving my skills in frontend and backend development, as well as exploring AI-based tools.
+Currently, I am focusing on improving my skills in both frontend and backend development, while also exploring AI and integrating AI-powered features into web applications.
 
 I mainly work with TypeScript as my core technology for building applications.
 
-I have experience working with technologies like Java, JavaScript, Python, and C#.
-I also use frameworks and tools such as React, Node.js, Express, Next.js, and .NET Web API.
+I have experience with technologies such as Java, JavaScript, Python, and C#. I also use frameworks and tools like React, Node.js, Express, Next.js, and .NET Web API.
 
 For databases, I work with MongoDB, MySQL, and PostgreSQL.
 
-I am familiar with tools like Git, GitHub, Postman, Prisma, and Visual Studio Code.
+I am familiar with tools such as Git, GitHub, Postman, Prisma, and Visual Studio Code.
 
 I am currently looking for opportunities where I can grow as a developer and contribute to a team.
 
