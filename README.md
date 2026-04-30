@@ -1,4 +1,4 @@
-👋 Hi, I'm Isranjan Sathiyaseelan
+<h1>👋 Hi, I'm Isranjan Sathiyaseelan</h1>
 
 I am a final year Software Engineering student with a strong interest in full-stack development. I enjoy building web applications and learning new technologies to solve real world problems.
 
@@ -8,20 +8,19 @@ I mainly work with TypeScript as my core technology for building applications.
 
 I have experience with technologies such as:
 
-Languages  
+**Languages**  
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,cs" />
 
-Frameworks & Libraries  
+**Frameworks & Libraries**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,dotnet" />
 
-Databases  
+**Databases**  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
-Tools  
+**Tools**  
 <img src="https://skillicons.dev/icons?i=git,github,postman,prisma,vscode" />
 
 I am currently looking for opportunities where I can grow as a developer and contribute to a team.
 
 You can reach me at:  
-LinkedIn: [Isranjan Sathiyaseelan](https://linkedin.com/in/isranjansathiyaseelan)
-
+🔗 LinkedIn: [Isranjan Sathiyaseelan](https://linkedin.com/in/isranjansathiyaseelan)
