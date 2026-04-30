@@ -6,14 +6,22 @@ Currently, I am focusing on improving my skills in both frontend and backend dev
 
 I mainly work with TypeScript as my core technology for building applications.
 
-I have experience with technologies such as Java, JavaScript, Python, and C#. I also use frameworks and tools like React, Node.js, Express, Next.js, and .NET Web API.
+I have experience with technologies such as:
 
-For databases, I work with MongoDB, MySQL, and PostgreSQL.
+Languages  
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,cs" />
 
-I am familiar with tools such as Git, GitHub, Postman, Prisma, and Visual Studio Code.
+Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,dotnet" />
+
+Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+Tools  
+<img src="https://skillicons.dev/icons?i=git,github,postman,prisma,vscode" />
 
 I am currently looking for opportunities where I can grow as a developer and contribute to a team.
 
-You can reach me at:
-LinkedIn: linkedin.com/in/isranjansathiyaseelan
+You can reach me at:  
+LinkedIn: [Isranjan Sathiyaseelan](https://linkedin.com/in/isranjansathiyaseelan)
 
