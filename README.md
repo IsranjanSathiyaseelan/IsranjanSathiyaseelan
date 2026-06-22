@@ -8,17 +8,30 @@ I mainly work with TypeScript as my core technology for building applications.
 
 I have experience with technologies such as:
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=ts,js,java,python,cs" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,cs&theme=light" height="40" />
+</p>
 
-**Frameworks & Libraries**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,dotnet" />
+### Frontend & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet&theme=light" height="40" />
+</p>
 
-**Databases**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light" height="40" />
+</p>
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,postman,prisma,vscode" />
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=light" height="40" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,prisma,vscode&theme=light" height="40" />
+</p>
 
 I am currently looking for opportunities where I can grow as a developer and contribute to a team.
 
