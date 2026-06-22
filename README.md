@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Isranjan Sathiyaseelan</h1>
+<h1>Hi, I'm Isranjan Sathiyaseelan</h1>
 
 I am a final year Software Engineering student with a strong interest in full-stack development. I enjoy building web applications and learning new technologies to solve real world problems.
 
