@@ -15,7 +15,7 @@ I have experience with technologies such as:
 
 ### Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,dotnet&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,spring,dotnet&theme=light" height="40" />
 </p>
 
 ### Databases
