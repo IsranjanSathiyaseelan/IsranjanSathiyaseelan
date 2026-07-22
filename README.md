@@ -15,12 +15,12 @@ I have experience with technologies such as:
 
 ### Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,spring,dotnet&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,spring,dotnet,tailwind&theme=light" height="40" />
 </p>
 
-### Databases
+### Databases & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=light" height="40" />
 </p>
 
 ### Cloud & DevOps
