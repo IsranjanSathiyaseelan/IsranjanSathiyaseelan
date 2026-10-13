@@ -23,6 +23,8 @@ Strengthening backend architecture and software engineering practices.
 
 Interested in collaborating, sharing ideas, or discussing software development?
 
-LinkedIn → Connect with me
+<a href="https://www.linkedin.com/in/isranjansathiyaseelan/" target="_blank">
+  LinkedIn → Connect with me
+</a>
 
 <p align="center"> <i>Learn continuously. Build intentionally. Improve consistently.</i> </p>
