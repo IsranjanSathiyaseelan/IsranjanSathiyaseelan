@@ -18,6 +18,7 @@ Tools I Use <p> <img src="https://skillicons.dev/icons?i=git,github,postman,pris
 Building scalable full-stack applications.
 Exploring AI integration in modern web applications.
 Strengthening backend architecture and software engineering practices.
+
 03 - Let's Connect
 
 Interested in collaborating, sharing ideas, or discussing software development?
