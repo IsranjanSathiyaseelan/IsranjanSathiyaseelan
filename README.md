@@ -1,25 +1,27 @@
-<h1>Hi, I'm Isranjan Sathiyaseelan</h1>
+Isranjan Sathiyaseelan
+Software Engineering Student · Full-Stack Developer
+Building useful things with code. Exploring ideas, solving problems, and turning concepts into working software.
 
-I am a final year Software Engineering student with a strong interest in full-stack development. I enjoy building web applications and learning new technologies to solve real world problems.
+I'm a final-year Software Engineering student focused on full-stack development, with TypeScript as my primary technology. I enjoy designing and building web applications, exploring AI-powered solutions, and continuously improving my engineering skills.
 
-Currently, I am focusing on improving my skills in both frontend and backend development, while also exploring AI and integrating AI-powered features into web applications.
+01 - Tech Stack
 
-I mainly work with TypeScript as my core technology for building applications.
+Languages <p> <img src="https://skillicons.dev/icons?i=ts,js,java,python,cs&theme=dark" height="38" /> </p>
 
-I have experience with technologies such as:
+Development <p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,spring,dotnet,tailwind&theme=dark" height="38" /> </p>
 
-Languages
-<p> <img src="https://skillicons.dev/icons?i=ts,js,java,python,cs&theme=light" height="40" /> </p>
-Frontend & Backend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,spring,dotnet,tailwind&theme=light" height="40" /> </p>
-Databases & Backend Services
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=light" height="40" /> </p>
-Cloud & DevOps
-<p> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=light" height="40" /> </p>
-Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman,prisma,vscode&theme=light" height="40" /> </p>
+Data & Infrastructure <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,aws,docker,kubernetes,linux&theme=dark" height="38" /> </p>
 
-I am currently looking for opportunities where I can grow as a developer and contribute to a team.
+Tools I Use <p> <img src="https://skillicons.dev/icons?i=git,github,postman,prisma,vscode&theme=dark" height="38" /> </p>
 
-You can reach me at:
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/isranjansathiyaseelan/">Isranjan Sathiyaseelan</a>
+02 - Current Focus
+Building scalable full-stack applications.
+Exploring AI integration in modern web applications.
+Strengthening backend architecture and software engineering practices.
+03 - Let's Connect
+
+Interested in collaborating, sharing ideas, or discussing software development?
+
+LinkedIn → Connect with me
+
+<p align="center"> <i>Learn continuously. Build intentionally. Improve consistently.</i> </p>
