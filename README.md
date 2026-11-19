@@ -48,16 +48,10 @@ const isranjan = {
   </tr>
 </table>
 
-### `02`  Current Focus
-
-- **Full-Stack Applications:** Building scalable, end-to-end web applications.
-- **AI Integration:** Exploring AI integration in modern web applications.
-- **Software Engineering:** Strengthening backend architecture and software engineering practices.
-
 <!-- Animated Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### `03`  Let's Connect
+### `02`  Let's Connect
 
 Interested in collaborating, sharing ideas, or discussing software development?
 
